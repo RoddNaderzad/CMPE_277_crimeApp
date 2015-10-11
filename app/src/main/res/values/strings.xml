@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomTracker</string>
+    <string name="action_settings"></string>
+    <string name="bug_title_hint">Enter a title for the bug</string>
+    <string name="title_activity_bug">BugActivity</string>
+    <string name="bug_title_label">Title</string>
+    <string name="bug_details_label">Details</string>
+    <string name="bug_solved_label">Solved?</string>
+    <string name="bug_title">Bugs</string>
+    <string name="date_picker_title">Date of Bug:</string>
+
+</resources>
